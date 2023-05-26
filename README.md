@@ -1,8 +1,16 @@
-# rock-paper-scissors
-Hello N-FACTORIAL,my name is Tatayev Shokan
+# ROCK PAPER SCISSORS
 
-This is my game "ROCK-PAPER-SCISSORS" on a JavaScript
+**EN**
+Assignment for the qualifying round "N-FACTORIAL INCUBATOR". The game "Rock-Paper-Scissors"
 
-FOR START:
-open "index.html"
-:)
+**RU**
+Задание на отборочный тур "N-FACTORIAL INCUBATOR". Игра "Rock-Paper-Scissors"
+
+*************
+Hello N-FACTORIAL,my name is Tatayev Shokan.
+
+This is my game "ROCK-PAPER-SCISSORS" on a JavaScript.
+
+## How to start
+1. Clone repository
+2. Open "index.html"
