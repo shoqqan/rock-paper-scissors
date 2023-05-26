@@ -124,8 +124,8 @@ while (objectsRPS.length < 20) {
         randomFromRPS(),
         random(0 + size, width - size),
         random(0 + size, height - size),
-        random(-1, 1),
-        random(-1, 1),
+        random(-1, 3),
+        random(-1, 3),
         size,
         image
     );
